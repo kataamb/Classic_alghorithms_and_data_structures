@@ -64,7 +64,7 @@ Set<T>::Set(const std::vector<T>& v) {
 }
 
 /*
-//same as method below
+//same as method above
 template <typename T>
 Set<T>::Set(const std::vector<T>& v) {
     body.reserve(ELEMENTS);
